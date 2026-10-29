@@ -5,11 +5,9 @@ Repository ini berisi latihan dan praktik penggunaan dictionary dalam bahasa pem
 
 ## Identitas
 
-- Program Studi: S1 Pendidikan Matematika
-- Fakultas: FKIP
-- Universitas: Universitas Sultan Ageng Tirtayasa
-- Tahun Akademik: 2026/2027 Ganjil
-- Materi: Dictionary Python
+- Nama  : Nuril Ilmy
+- NIM   : 2225250066
+- Kelas :3E
 
 ## Struktur Folder
 
